@@ -1,0 +1,8 @@
+fecha;sucursal;producto;cantidad;precio_unitario
+2026-10-01;Buenos Aires;Gaseosa 2.25L;40;1850,50
+2026-10-01;Córdoba;Agua mineral 2L;25;1200,00
+2026-10-01;Rosario;Gaseosa 2.25L;30;1850,50
+2026-10-02;Buenos Aires;Cerveza 1L;60;2300,00
+2026-10-02;Córdoba;Gaseosa 2.25L;15;1850,50
+2026-10-02;Rosario;Cerveza 1L;45;2300,00
+2026-10-19;Rosario;Gaseosa 2.25L;50;1850,50
