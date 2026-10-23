@@ -1,0 +1,101 @@
+id_reclamo,fecha,categoria,canal
+REC-1001,2026-10-09,Velocidad baja,Facebook
+REC-1002,2026-10-08,Error de facturación,Twitter/X
+REC-1003,2026-10-12,Mala atención,Twitter/X
+REC-1004,2026-09-28,Error de facturación,Twitter/X
+REC-1005,2026-10-16,Velocidad baja,Twitter/X
+REC-1006,2026-10-05,Corte total del servicio,Twitter/X
+REC-1007,2026-09-26,Corte total del servicio,Twitter/X
+REC-1008,2026-10-08,Error de facturación,Twitter/X
+REC-1009,2026-10-16,Error de facturación,Twitter/X
+REC-1010,2026-10-16,Demora técnica,Twitter/X
+REC-1011,2026-09-23,Demora técnica,Twitter/X
+REC-1012,2026-09-27,Corte total del servicio,Instagram
+REC-1013,2026-10-10,Error de facturación,Instagram
+REC-1014,2026-10-19,Error de facturación,Twitter/X
+REC-1015,2026-10-03,Velocidad baja,Twitter/X
+REC-1016,2026-10-03,Demora técnica,Twitter/X
+REC-1017,2026-10-05,Velocidad baja,Instagram
+REC-1018,2026-10-02,Corte total del servicio,Twitter/X
+REC-1019,2026-10-02,Corte total del servicio,Twitter/X
+REC-1020,2026-10-17,Velocidad baja,Facebook
+REC-1021,2026-10-04,Velocidad baja,Twitter/X
+REC-1022,2026-10-15,Velocidad baja,Twitter/X
+REC-1023,2026-10-14,Error de facturación,Facebook
+REC-1024,2026-10-09,Demora técnica,Twitter/X
+REC-1025,2026-10-18,Mala atención,Twitter/X
+REC-1026,2026-10-18,Velocidad baja,Instagram
+REC-1027,2026-10-12,Corte total del servicio,Facebook
+REC-1028,2026-09-23,Corte total del servicio,Instagram
+REC-1029,2026-10-08,Demora técnica,Facebook
+REC-1030,2026-09-24,Mala atención,Instagram
+REC-1031,2026-10-16,Demora técnica,Instagram
+REC-1032,2026-09-25,Velocidad baja,Facebook
+REC-1033,2026-09-27,Mala atención,Twitter/X
+REC-1034,2026-10-19,Velocidad baja,Twitter/X
+REC-1035,2026-09-25,Error de facturación,Twitter/X
+REC-1036,2026-09-23,Corte total del servicio,Instagram
+REC-1037,2026-10-13,Error de facturación,Twitter/X
+REC-1038,2026-09-27,Error de facturación,Instagram
+REC-1039,2026-10-01,Corte total del servicio,Twitter/X
+REC-1040,2026-09-25,Error de facturación,Twitter/X
+REC-1041,2026-10-04,Corte total del servicio,Instagram
+REC-1042,2026-10-16,Error de facturación,Twitter/X
+REC-1043,2026-09-29,Velocidad baja,Twitter/X
+REC-1044,2026-10-11,Demora técnica,Facebook
+REC-1045,2026-10-05,Mala atención,Twitter/X
+REC-1046,2026-10-01,Velocidad baja,Instagram
+REC-1047,2026-10-06,Velocidad baja,Instagram
+REC-1048,2026-10-08,Error de facturación,Twitter/X
+REC-1049,2026-10-20,Velocidad baja,Twitter/X
+REC-1050,2026-10-12,Error de facturación,Facebook
+REC-1051,2026-10-03,Corte total del servicio,Instagram
+REC-1052,2026-10-07,Corte total del servicio,Twitter/X
+REC-1053,2026-10-12,Corte total del servicio,Twitter/X
+REC-1054,2026-09-24,Error de facturación,Twitter/X
+REC-1055,2026-10-18,Velocidad baja,Instagram
+REC-1056,2026-10-12,Error de facturación,Instagram
+REC-1057,2026-10-11,Mala atención,Twitter/X
+REC-1058,2026-10-05,Mala atención,Instagram
+REC-1059,2026-09-30,Error de facturación,Instagram
+REC-1060,2026-09-28,Demora técnica,Twitter/X
+REC-1061,2026-09-30,Corte total del servicio,Twitter/X
+REC-1062,2026-10-09,Error de facturación,Instagram
+REC-1063,2026-10-05,Demora técnica,Instagram
+REC-1064,2026-09-29,Mala atención,Instagram
+REC-1065,2026-10-21,Corte total del servicio,Instagram
+REC-1066,2026-10-05,Mala atención,Facebook
+REC-1067,2026-09-22,Corte total del servicio,Twitter/X
+REC-1068,2026-10-05,Error de facturación,Instagram
+REC-1069,2026-10-21,Velocidad baja,Twitter/X
+REC-1070,2026-10-16,Corte total del servicio,Twitter/X
+REC-1071,2026-10-18,Error de facturación,Instagram
+REC-1072,2026-09-24,Corte total del servicio,Facebook
+REC-1073,2026-10-16,Demora técnica,Twitter/X
+REC-1074,2026-10-14,Corte total del servicio,Twitter/X
+REC-1075,2026-10-13,Demora técnica,Twitter/X
+REC-1076,2026-09-21,Velocidad baja,Twitter/X
+REC-1077,2026-10-11,Mala atención,Twitter/X
+REC-1078,2026-09-28,Velocidad baja,Instagram
+REC-1079,2026-09-26,Mala atención,Instagram
+REC-1080,2026-10-14,Velocidad baja,Twitter/X
+REC-1081,2026-09-22,Velocidad baja,Facebook
+REC-1082,2026-10-21,Mala atención,Facebook
+REC-1083,2026-09-24,Mala atención,Instagram
+REC-1084,2026-09-21,Error de facturación,Facebook
+REC-1085,2026-10-07,Velocidad baja,Instagram
+REC-1086,2026-10-06,Velocidad baja,Twitter/X
+REC-1087,2026-09-22,Demora técnica,Instagram
+REC-1088,2026-10-13,Mala atención,Instagram
+REC-1089,2026-09-29,Demora técnica,Instagram
+REC-1090,2026-10-13,Corte total del servicio,Twitter/X
+REC-1091,2026-10-12,Mala atención,Twitter/X
+REC-1092,2026-09-24,Error de facturación,Twitter/X
+REC-1093,2026-09-26,Demora técnica,Instagram
+REC-1094,2026-10-03,Velocidad baja,Instagram
+REC-1095,2026-10-19,Error de facturación,Instagram
+REC-1096,2026-09-28,Error de facturación,Twitter/X
+REC-1097,2026-09-28,Demora técnica,Twitter/X
+REC-1098,2026-10-04,Velocidad baja,Instagram
+REC-1099,2026-10-06,Demora técnica,Twitter/X
+REC-1100,2026-09-27,Error de facturación,Instagram
