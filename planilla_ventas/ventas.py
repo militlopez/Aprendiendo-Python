@@ -19,7 +19,6 @@ ventas=ventas.merge(negocios,on="Negocio",how="left")
 print("\n=== Facturación por barrio ===")
 por_barrio=ventas.groupby("Barrio")["Facturacion"].sum()
 print(por_barrio.to_frame())
-
 # === GRAFICO ===
 plt.pie(por_barrio,labels=por_barrio.index,autopct="%1.1f%%")
 plt.show()
