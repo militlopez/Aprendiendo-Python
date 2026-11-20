@@ -1,0 +1,6 @@
+La función recibe un número entero y devuelve:
+- "fizzbuzz" si es divisible por 3 y 5 a la vez
+- "fizz" si solo es divisible por 3
+- "buzz" si solo es divisible por 5
+- "fizzbuzz" si el número es 0
+- El mismo número si no cumple ninguna de las anteriores
